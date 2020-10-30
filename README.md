@@ -15,7 +15,7 @@
 
 <div>
 <!-- Hardware Design -->
-<img align="left" alt="Autodesk" width="26px" src="https://simpleicons.org/icons/autodesk.svg" />
+<!--<img align="left" alt="Autodesk" width="26px" src="https://simpleicons.org/icons/autodesk.svg" /> -->
 <img align="left" alt="Blender" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/blender.svg" /> 
 
 <!-- Embedded Programming -->
@@ -23,7 +23,7 @@
 <img align="left" alt="RISC-V" width="140px" src="https://riscv.org/wp-content/uploads/2020/06/riscv-color.svg" />
 
 <!-- Languages -->
-<img align="left" alt="C" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/c.svg" />
+<img align="left" alt="C" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/c.svg" />
 <img align="left" alt="Rust" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/rust.svg" />
 <img align="left" alt="NodeJS" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/node-dot-js.svg" />
 <!-- <img align="left" alt="LLVM" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/llvm.svg" /> -->
@@ -41,6 +41,7 @@
 
 <!-- Penetration Test -->
 <!--<img align="left" alt="Pentest" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/duckduckgo.svg" /> -->
+
 </div>
 
 <br />
