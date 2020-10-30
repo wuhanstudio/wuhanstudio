@@ -53,7 +53,7 @@
 - **B.Eng.** in Energy and Power Engineering. Huazhong University of Science and Technology, China [2012-2016]
 
 ### Internship
-- Field-Programmable Gate Arrays Intern in <a href="https://www.xilinx.com/">Xilinx</a>.
+- AI Accelerator FPGA Intern in <a href="https://www.xilinx.com/">Xilinx</a>.
 - Deep Learning Research Intern in <a href="https://www.liulishuo.com/en">LAIX Inc</a>.
 - Embedded Software Engineering Intern in <a href="https://www.rt-thread.org/">RT-Thread</a>.
 - Game Development Intern in <a href="http://en.chukong-inc.com/">Chukong Technologies</a>
