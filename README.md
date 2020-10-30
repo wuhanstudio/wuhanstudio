@@ -20,7 +20,7 @@
 
 <!-- Embedded Programming -->
 <img align="left" alt="AD" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/altiumdesigner.svg" />
-<img align="left" alt="RISC-V" width="140px" src="https://riscv.org/wp-content/uploads/2020/06/riscv-color.svg" />
+<!-- <img align="left" alt="RISC-V" width="140px" src="https://riscv.org/wp-content/uploads/2020/06/riscv-color.svg" /> -->
 
 <!-- Languages -->
 <img align="left" alt="C" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/c.svg" />
@@ -44,6 +44,7 @@
 
 </div>
 
+<br />
 <br />
 
 ### Education
