@@ -14,6 +14,7 @@
 --------
 
 <div>
+<p>
 <!-- Hardware Design -->
 <!--<img align="left" alt="Autodesk" width="26px" src="https://simpleicons.org/icons/autodesk.svg" /> -->
 <img align="left" alt="Blender" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/blender.svg" /> 
@@ -41,7 +42,7 @@
 
 <!-- Penetration Test -->
 <!--<img align="left" alt="Pentest" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/duckduckgo.svg" /> -->
-
+</p>
 </div>
 
 <br />
