@@ -23,7 +23,7 @@
 - AI Accelerator FPGA Intern in <a href="https://www.xilinx.com/">Xilinx</a>.
 - Deep Learning Research Intern in <a href="https://www.liulishuo.com/en">LAIX Inc</a>.
 - Embedded Software Engineering Intern in <a href="https://www.rt-thread.org/">RT-Thread</a>.
-- Game Development Intern in <a href="http://en.chukong-inc.com/">Chukong Technologies</a>
+- Game Development Intern in <a href="http://en.chukong-inc.com/">Chukong Technologies</a>.
 
 ### Connect with me:
 
