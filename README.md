@@ -15,9 +15,9 @@
 
 ### Education
 
-- Currently a **Ph.D. Student** in Computer Science. University of Exeter, the U.K.
-- **M.Eng.** in Engineering Thermal Physics. Huazhong University of Science and Technology, China [2016-2019]
-- **B.Eng.** in Energy and Power Engineering. Huazhong University of Science and Technology, China [2012-2016]
+- Currently a **Ph.D. Student** in Computer Science, University of Exeter, the U.K.
+- **M.Eng.** in Engineering Thermal Physics, Huazhong University of Science and Technology, China [2016-2019]
+- **B.Eng.** in Energy and Power Engineering, Huazhong University of Science and Technology, China [2012-2016]
 
 ### Internship
 - AI Accelerator FPGA Intern in <a href="https://www.xilinx.com/">Xilinx</a>.
