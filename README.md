@@ -19,6 +19,7 @@
 
 <!-- Embedded Programming -->
 <img align="left" alt="AD" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/altiumdesigner.svg" />
+<img align="left" alt="RISC-V" width="130px" src="https://riscv.org/wp-content/uploads/2020/06/riscv-color.svg" />
 
 <!-- Languages -->
 <img align="left" alt="C" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/c.svg" />
@@ -37,15 +38,16 @@
 <img align="left" alt="Docker" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/docker.svg" />
 <img align="left" alt="K8S" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/kubernetes.svg" />
 
+<!-- Penetration Test -->
 <img align="left" alt="Pentest" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/duckduckgo.svg" />
 
 <br />
 
 ### Education
 
-- Currently a Ph.D. Student in Computer Science. University of Exeter, the U.K.
-- M.Eng. in Engineering Thermal Physics. Huazhong University of Science and Technology, China [2016-2019]
-- B.Eng. in Energy and Power Engineering. Huazhong University of Science and Technology, China [2012-2016]
+- Currently a **Ph.D. Student** in Computer Science. University of Exeter, the U.K.
+- **M.Eng.** in Engineering Thermal Physics. Huazhong University of Science and Technology, China [2016-2019]
+- **B.Eng.** in Energy and Power Engineering. Huazhong University of Science and Technology, China [2012-2016]
 
 ### Internship
 - Field-Programmable Gate Arrays Intern in <a href="https://www.xilinx.com/">Xilinx</a>.
