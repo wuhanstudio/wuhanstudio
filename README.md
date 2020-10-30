@@ -16,16 +16,16 @@
 <!-- Hardware Design -->
 <img align="left" alt="Autodesk" width="26px" src="https://simpleicons.org/icons/autodesk.svg" />
 <img align="left" alt="Blender" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/blender.svg" /> 
-<img align="left" alt="AD" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/altiumdesigner.svg" />
 
 <!-- Embedded Programming -->
-<img align="left" alt="LLVM" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/llvm.svg" />
-<img align="left" alt="Rust" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/rust.svg" />
+<img align="left" alt="AD" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/altiumdesigner.svg" />
 
 <!-- Languages -->
 <img align="left" alt="C" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/c.svg" />
+<img align="left" alt="Rust" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/rust.svg" />
+<img align="left" alt="LLVM" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/llvm.svg" />
 <img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/java.svg" />
-<img align="left" alt="Javascript" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/node-dot-js.svg" />
+<img align="left" alt="NodeJS" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/node-dot-js.svg" />
 
 <!-- Deep Learning -->
 <img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/python.svg" />
