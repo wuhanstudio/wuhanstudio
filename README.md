@@ -12,10 +12,7 @@
 </div>
 
 --------
-  
-<br />
-<br />
-  
+
 ### Education
 
 - Currently a **Ph.D. Student** in Computer Science. University of Exeter, the U.K.
