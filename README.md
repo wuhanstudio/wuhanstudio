@@ -34,3 +34,10 @@
 [website]: https://wuhanstudio.cc
 [linkedin]: https://www.linkedin.com/in/han-wu-2b3773ab
 [github]: https://github.com/wuhanstudio
+
+<br />
+
+### Projects
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=wuhanstudio&repo=nand2tetris-iverilog&show_owner=true)](https://github.com/wuhanstudio/nand2tetris-iverilog)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=wuhanstudio&repo=picorv32_tang&show_owner=true)](https://github.com/wuhanstudio/picorv32_tang)
