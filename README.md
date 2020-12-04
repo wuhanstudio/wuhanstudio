@@ -42,12 +42,3 @@
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=wuhanstudio&repo=nand2tetris-iverilog&show_owner=true)](https://github.com/wuhanstudio/nand2tetris-iverilog)&nbsp;&nbsp;
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=wuhanstudio&repo=picorv32_tang&show_owner=true)](https://github.com/wuhanstudio/picorv32_tang)
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rt-thread&repo=rt-thread&show_owner=true)](https://github.com/RT-Thread/rt-thread)&nbsp;&nbsp;
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=zephyrproject-rtos&repo=zephyr&show_owner=true)](https://github.com/zephyrproject-rtos/zephyr)
-
-<!-- [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Immediate-Mode-UI&repo=Nuklear&show_owner=true)](https://github.com/Immediate-Mode-UI/Nuklear)&nbsp;&nbsp; -->
-<!-- [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=wuhanstudio&repo=u8g2-arm-linux&show_owner=true)](https://github.com/wuhanstudio/u8g2-arm-linux) -->
-
-<!-- [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=wuhanstudio&repo=rt-u8g2&show_owner=true)](https://github.com/wuhanstudio/rt-u8g2)&nbsp;&nbsp; -->
-<!-- [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=wuhanstudio&repo=rt-rosserial&show_owner=true)](https://github.com/wuhanstudio/rt-rosserial) -->
