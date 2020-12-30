@@ -23,7 +23,7 @@
 - AI Accelerator FPGA Intern in <a href="https://www.xilinx.com/">Xilinx</a>, 2020
 - Deep Learning Research Intern in <a href="https://www.liulishuo.com/en">LAIX Inc</a>, 2020.
 - Embedded Software Engineering Intern in <a href="https://www.rt-thread.org/">RT-Thread</a>, 2019.
-- [Stanford Youth Creativity, Innovation and Sustainable Leadership Workshop](https://web.stanford.edu/group/sdgc/youthleadership.html), 2018
+- [Stanford](https://web.stanford.edu/group/sdgc/youthleadership.html) Youth Creativity, Innovation and Sustainable Leadership Workshop, 2018
 - Game Development Intern in <a href="http://en.chukong-inc.com/">Chukong Technologies</a>, 2014
 
 ### Connect with me:
