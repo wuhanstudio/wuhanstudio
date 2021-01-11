@@ -41,4 +41,4 @@
 ### Projects
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=wuhanstudio&repo=nand2tetris-iverilog&show_owner=true)](https://github.com/wuhanstudio/nand2tetris-iverilog)&nbsp;&nbsp;
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=wuhanstudio&repo=picorv32_tang&show_owner=true)](https://github.com/wuhanstudio/picorv32_tang)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=wuhanstudio&repo=picorv32_EG4S20&show_owner=true)](https://github.com/wuhanstudio/picorv32_EG4S20)
