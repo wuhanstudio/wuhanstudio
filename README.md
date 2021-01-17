@@ -3,10 +3,10 @@
     Look Inside · Think Different
 
 <div>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://wuhanstudio.cc">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=wuhanstudio&include_all_commits=true&show_icons=true&hide=issues&count_private=true" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://wuhanstudio.cc">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wuhanstudio&layout=compact" />
 </a>
 </div>
