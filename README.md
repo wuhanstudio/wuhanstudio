@@ -40,10 +40,6 @@
 
 ### Projects
 
-[![Bicover](https://github-readme-stats.vercel.app/api/pin/?username=wuhanstudio&repo=bicover-mainpage&show_owner=false)](https://bicover.wuhanstudio.cc)&nbsp;&nbsp;
-[![Focus Sandrial](https://github-readme-stats.vercel.app/api/pin/?username=wuhanstudio&repo=focus-mainpage&show_owner=false)](https://focus.wuhanstudio.cc)
-
-
 [![Machine Learning](https://github-readme-stats.vercel.app/api/pin/?username=wuhanstudio&repo=Stanford-MachineLearning&show_owner=false)](https://github.com/wuhanstudio/Stanford-MachineLearning)&nbsp;&nbsp;
 [![Cryptography](https://github-readme-stats.vercel.app/api/pin/?username=wuhanstudio&repo=Stanford-Cryptography&show_owner=false)](https://github.com/wuhanstudio/Stanford-Cryptography)
 
