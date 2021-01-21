@@ -42,3 +42,9 @@
 
 [![16-bit  CPU](https://github-readme-stats.vercel.app/api/pin/?username=wuhanstudio&repo=nand2tetris-iverilog&show_owner=true)](https://github.com/wuhanstudio/nand2tetris-iverilog)&nbsp;&nbsp;
 [![32-bit SoC](https://github-readme-stats.vercel.app/api/pin/?username=wuhanstudio&repo=picorv32_EG4S20&show_owner=true)](https://github.com/wuhanstudio/picorv32_EG4S20)
+
+[![Machine Learning](https://github-readme-stats.vercel.app/api/pin/?username=wuhanstudio&repo=Stanford-MachineLearning&show_owner=true)](https://github.com/wuhanstudio/Stanford-MachineLearning)&nbsp;&nbsp;
+[![Cryptography](https://github-readme-stats.vercel.app/api/pin/?username=wuhanstudio&repo=Stanford-Cryptography&show_owner=true)](https://github.com/wuhanstudio/Stanford-Cryptography)
+
+[![Bicover](https://github-readme-stats.vercel.app/api/pin/?username=wuhanstudio&repo=bicover-mainpage&show_owner=true)](https://bicover.wuhanstudio.cc)&nbsp;&nbsp;
+[![Focus Sandrial](https://github-readme-stats.vercel.app/api/pin/?username=wuhanstudio&repo=focus-mainpage&show_owner=true)](https://focus.wuhanstudio.cc)
