@@ -1,5 +1,5 @@
 ### [吴晗 (Wu Han)](https://wuhanstudio.cc)
-![](https://komarev.com/ghpvc/?username=wuhanstudio)
+![](https://komarev.com/ghpvc/?username=wuhanstudio&label=Profile+Views)
 
 <div>
 <a href="https://wuhanstudio.cc">
