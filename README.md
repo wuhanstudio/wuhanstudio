@@ -1,8 +1,6 @@
 ### [吴晗 (Wu Han)](https://wuhanstudio.cc)
 ![](https://komarev.com/ghpvc/?username=wuhanstudio)
 
-    Look Inside · Think Different
-
 <div>
 <a href="https://wuhanstudio.cc">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=wuhanstudio&include_all_commits=true&show_icons=true&hide=issues&count_private=true" />
