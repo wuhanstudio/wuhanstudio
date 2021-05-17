@@ -48,5 +48,5 @@
 [![Cryptography](https://github-readme-stats.vercel.app/api/pin/?username=wuhanstudio&repo=Stanford-Cryptography&show_owner=false)](https://github.com/wuhanstudio/Stanford-Cryptography)
 
 [![16-bit  CPU](https://github-readme-stats.vercel.app/api/pin/?username=wuhanstudio&repo=nand2tetris-iverilog&show_owner=false)](https://github.com/wuhanstudio/nand2tetris-iverilog)&nbsp;&nbsp;
-[![32-bit SoC](https://github-readme-stats.vercel.app/api/pin/?username=wuhanstudio&repo=picorv32_EG4S20&show_owner=false)](https://github.com/wuhanstudio/picorv32_EG4S20)
+[![32-bit SoC](https://github-readme-stats.vercel.app/api/pin/?username=wuhanstudio&repo=picorv32_EG4S20&show_owner=false)](https://github.com/wuhanstudio/picorv32_tang)
 
