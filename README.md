@@ -43,7 +43,7 @@ Ph.D. Student at University of Exeter in the U.K. for Autonomous System Security
 ### Research
 
 [![Adversarial Driving](https://github-readme-stats.vercel.app/api/pin/?username=wuhanstudio&repo=adversarial-driving&show_owner=false)](https://github.com/wuhanstudio/adversarial-driving)&nbsp;&nbsp;
-[![Interpretable-ml-covid19](https://github-readme-stats.vercel.app/api/pin/?username=wuhanstudio&repo=interpretable-ml-covid-19&show_owner=false)](https://github.com/wuhanstudio/interpretable-ml-covid-19)
+[![Interpretable-ml-covid19](https://github-readme-stats.vercel.app/api/pin/?username=wuhanstudio&repo=adversarial-detection&show_owner=false)](https://github.com/wuhanstudio/adversarial-detection)
 
 [![Adversarial ROS Driving](https://github-readme-stats.vercel.app/api/pin/?username=wuhanstudio&repo=adversarial-ros-driving&show_owner=false)](https://github.com/wuhanstudio/adversarial-ros-driving)&nbsp;&nbsp;
 [![Adversarial ROS Detection](https://github-readme-stats.vercel.app/api/pin/?username=wuhanstudio&repo=adversarial-ros-detection&show_owner=false)](https://github.com/wuhanstudio/adversarial-ros-detection)
