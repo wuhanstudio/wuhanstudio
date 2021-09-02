@@ -1,6 +1,6 @@
 ### [吴晗 (Wu Han)](https://wuhanstudio.cc)
 
-Ph.D. Student at University of Exeter in the U.K. for Autonomous System Security. Prior research experience at RT-Thread, LAIX, Xilinx.
+Ph.D. Student at the University of Exeter in the U.K. for Autonomous System Security. Prior research experience at RT-Thread, LAIX, Xilinx.
 
 ![](https://komarev.com/ghpvc/?username=wuhanstudio&label=Profile+Views)
 
