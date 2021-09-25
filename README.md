@@ -17,6 +17,7 @@ Ph.D. Student at the University of Exeter in the U.K. for Autonomous System Secu
 
 ### Latest
 
+- [2021.09] Invited Talk: **Adversarial Attacks against Deep Learning**. [Talk slides](https://orca.wuhanstudio.uk/)
 - [2021.09] Invited Talk: **Robot Operating System (ROS) on RT-Thread**, RT-Thread Global Tech Conference. [Talk slides](https://ros.wuhanstudio.uk/)
 
 
