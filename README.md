@@ -6,7 +6,7 @@ Ph.D. Student at the University of Exeter in the U.K. for Autonomous System Secu
 
 <div>
 <a href="https://wuhanstudio.cc">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=wuhanstudio&include_all_commits=true&show_icons=true&hide=issues&count_private=true" />
+  <img align="center" width=50% src="https://github-readme-stats.vercel.app/api?username=wuhanstudio&include_all_commits=true&show_icons=true&hide=issues&count_private=true" />
 </a>
 <a href="https://wuhanstudio.cc">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wuhanstudio&layout=compact&langs_count=6&hide=assembly" />
