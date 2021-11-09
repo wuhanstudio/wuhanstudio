@@ -18,7 +18,7 @@ Ph.D. Student at the University of Exeter in the U.K. for Autonomous System Secu
 ### Latest
 
 - **My latest research in the U.K.** https://wuhanstudio.uk/
-- [2021-11] Invited Talk: **Embedded System Programming**, Manipal University Jaipur.
+- [2021-11] Invited Talk: **Embedded System Programming**, Manipal University Jaipur. [Event Poster](https://wuhanstudio.cc/resources/img/manipal.png)
 - [2021-09] Invited Talk: **Adversarial Attacks against Deep Learning**, AI/ML in Industry and Finance. [Talk slides](https://orca.wuhanstudio.uk/)
 - [2021-09] Invited Talk: **Robot Operating System (ROS) on RT-Thread**, RT-Thread Global Tech Conference. [Talk slides](https://ros.wuhanstudio.uk/)
 
