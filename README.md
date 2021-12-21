@@ -39,7 +39,7 @@ Ph.D. Student at the University of Exeter in the U.K. for **<a href="https://wuh
 - [Stanford](https://web.stanford.edu/group/sdgc/youthleadership.html) Youth Creativity, Innovation and Sustainable Leadership Workshop, 2018
 - Game Development Intern in <a href="https://www.cocos.com/en">Chukong Technologies Cocos2d-X</a>, 2015
 
-### Connect with me:
+<!-- ### Connect with me:
 
 [<img align="left" alt="vibhorchaudhary | Homepage" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/googlechrome.svg" />][website]
 [<img align="left" alt="vibhorchaudhary | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
@@ -49,7 +49,7 @@ Ph.D. Student at the University of Exeter in the U.K. for **<a href="https://wuh
 [linkedin]: https://www.linkedin.com/in/han-wu-2b3773ab
 [github]: https://github.com/wuhanstudio
 
-<br />
+<br /> -->
 
 ### Research
 
