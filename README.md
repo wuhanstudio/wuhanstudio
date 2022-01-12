@@ -1,6 +1,6 @@
 <!-- ### [吴晗 (Wu Han)](https://wuhanstudio.cc) -->
 
-<h1>Is deep learning secure for robots?</h1>
+<h1>Is Deep Learning secure for Robots?</h1>
 
 Ph.D. Student at the University of Exeter in the U.K. for **<a href="https://wuhanstudio.uk">Deep Learning Security</a>** in Autonomous Systems. Prior research experience at RT-Thread, LAIX, Xilinx.
 
