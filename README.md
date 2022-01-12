@@ -1,4 +1,4 @@
-### [吴晗 (Wu Han)](https://wuhanstudio.cc)
+<!-- ### [吴晗 (Wu Han)](https://wuhanstudio.cc) -->
 
 <h3>Is deep learning secure for robots?</h3>
 
