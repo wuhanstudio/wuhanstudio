@@ -17,17 +17,6 @@ Ph.D. Student at the University of Exeter in the U.K. for **<a href="https://wuh
 
 <!-- -------- -->
 
-### Research Projects
-
-<!-- [![Adversarial Driving](https://github-readme-stats.vercel.app/api/pin/?username=wuhanstudio&repo=adversarial-driving&show_owner=false)](https://github.com/wuhanstudio/adversarial-driving)&nbsp;&nbsp; -->
-<!-- [![Adversarial ROS Driving](https://github-readme-stats.vercel.app/api/pin/?username=wuhanstudio&repo=adversarial-ros-driving&show_owner=false)](https://github.com/wuhanstudio/adversarial-ros-driving)&nbsp;&nbsp; -->
-
-<!-- [![Adversarial Detection](https://github-readme-stats.vercel.app/api/pin/?username=wuhanstudio&repo=adversarial-detection&show_owner=false)](https://github.com/wuhanstudio/adversarial-detection)&nbsp;&nbsp; -->
-<!-- [![Adversarial ROS Detection](https://github-readme-stats.vercel.app/api/pin/?username=wuhanstudio&repo=adversarial-ros-detection&show_owner=false)](https://github.com/wuhanstudio/adversarial-ros-detection) -->
-
-[![Whitebox Adversarial Toolbox](https://github-readme-stats.vercel.app/api/pin/?username=wuhanstudio&repo=whitebox-adversarial-toolbox&show_owner=false)](https://github.com/wuhanstudio/whitebox-adversarial-toolbox)&nbsp;&nbsp;
-[![Blackbox Adversarial Toolbox](https://github-readme-stats.vercel.app/api/pin/?username=wuhanstudio&repo=blackbox-adversarial-toolbox&show_owner=false)](https://github.com/wuhanstudio/blackbox-adversarial-toolbox)
-
 ### Latest
 
 - **My latest research in the U.K.** https://wuhanstudio.uk/
@@ -35,7 +24,6 @@ Ph.D. Student at the University of Exeter in the U.K. for **<a href="https://wuh
 - [2021-11] Invited Talk: **Embedded System Programming**, Manipal University Jaipur. [Event Poster](https://wuhanstudio.cc/resources/img/manipal.png)
 - [2021-09] Invited Talk: **Adversarial Attacks against Deep Learning**, AI/ML in Industry and Finance. [Talk slides](https://orca.wuhanstudio.uk/)
 - [2021-09] Invited Talk: **Robot Operating System (ROS) on RT-Thread**, RT-Thread Global Tech Conference. [Talk slides](https://ros.wuhanstudio.uk/)
-
 
 ### Education
 
@@ -61,6 +49,17 @@ Ph.D. Student at the University of Exeter in the U.K. for **<a href="https://wuh
 [github]: https://github.com/wuhanstudio
 
 <br /> -->
+
+### Research Projects
+
+<!-- [![Adversarial Driving](https://github-readme-stats.vercel.app/api/pin/?username=wuhanstudio&repo=adversarial-driving&show_owner=false)](https://github.com/wuhanstudio/adversarial-driving)&nbsp;&nbsp; -->
+<!-- [![Adversarial ROS Driving](https://github-readme-stats.vercel.app/api/pin/?username=wuhanstudio&repo=adversarial-ros-driving&show_owner=false)](https://github.com/wuhanstudio/adversarial-ros-driving)&nbsp;&nbsp; -->
+
+<!-- [![Adversarial Detection](https://github-readme-stats.vercel.app/api/pin/?username=wuhanstudio&repo=adversarial-detection&show_owner=false)](https://github.com/wuhanstudio/adversarial-detection)&nbsp;&nbsp; -->
+<!-- [![Adversarial ROS Detection](https://github-readme-stats.vercel.app/api/pin/?username=wuhanstudio&repo=adversarial-ros-detection&show_owner=false)](https://github.com/wuhanstudio/adversarial-ros-detection) -->
+
+[![Whitebox Adversarial Toolbox](https://github-readme-stats.vercel.app/api/pin/?username=wuhanstudio&repo=whitebox-adversarial-toolbox&show_owner=false)](https://github.com/wuhanstudio/whitebox-adversarial-toolbox)&nbsp;&nbsp;
+[![Blackbox Adversarial Toolbox](https://github-readme-stats.vercel.app/api/pin/?username=wuhanstudio&repo=blackbox-adversarial-toolbox&show_owner=false)](https://github.com/wuhanstudio/blackbox-adversarial-toolbox)
 
 ### Side Projects
 
