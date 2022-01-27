@@ -17,7 +17,7 @@ Ph.D. Student at the University of Exeter in the U.K. for **<a href="https://wuh
 
 --------
 
-### Research
+### Research Projects
 
 <!-- [![Adversarial Driving](https://github-readme-stats.vercel.app/api/pin/?username=wuhanstudio&repo=adversarial-driving&show_owner=false)](https://github.com/wuhanstudio/adversarial-driving)&nbsp;&nbsp; -->
 <!-- [![Adversarial ROS Driving](https://github-readme-stats.vercel.app/api/pin/?username=wuhanstudio&repo=adversarial-ros-driving&show_owner=false)](https://github.com/wuhanstudio/adversarial-ros-driving)&nbsp;&nbsp; -->
@@ -62,7 +62,7 @@ Ph.D. Student at the University of Exeter in the U.K. for **<a href="https://wuh
 
 <br /> -->
 
-### Projects
+### Side Projects
 
 <!-- [![Machine Learning](https://github-readme-stats.vercel.app/api/pin/?username=wuhanstudio&repo=Stanford-MachineLearning&show_owner=false)](https://github.com/wuhanstudio/Stanford-MachineLearning)&nbsp;&nbsp; -->
 <!-- [![Cryptography](https://github-readme-stats.vercel.app/api/pin/?username=wuhanstudio&repo=Stanford-Cryptography&show_owner=false)](https://github.com/wuhanstudio/Stanford-Cryptography) -->
