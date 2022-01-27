@@ -17,6 +17,17 @@ Ph.D. Student at the University of Exeter in the U.K. for **<a href="https://wuh
 
 --------
 
+### Research
+
+<!-- [![Adversarial Driving](https://github-readme-stats.vercel.app/api/pin/?username=wuhanstudio&repo=adversarial-driving&show_owner=false)](https://github.com/wuhanstudio/adversarial-driving)&nbsp;&nbsp; -->
+<!-- [![Adversarial ROS Driving](https://github-readme-stats.vercel.app/api/pin/?username=wuhanstudio&repo=adversarial-ros-driving&show_owner=false)](https://github.com/wuhanstudio/adversarial-ros-driving)&nbsp;&nbsp; -->
+
+<!-- [![Adversarial Detection](https://github-readme-stats.vercel.app/api/pin/?username=wuhanstudio&repo=adversarial-detection&show_owner=false)](https://github.com/wuhanstudio/adversarial-detection)&nbsp;&nbsp; -->
+<!-- [![Adversarial ROS Detection](https://github-readme-stats.vercel.app/api/pin/?username=wuhanstudio&repo=adversarial-ros-detection&show_owner=false)](https://github.com/wuhanstudio/adversarial-ros-detection) -->
+
+[![Whitebox Adversarial Toolbox](https://github-readme-stats.vercel.app/api/pin/?username=wuhanstudio&repo=whitebox-adversarial-toolbox&show_owner=false)](https://github.com/wuhanstudio/whitebox-adversarial-toolbox)&nbsp;&nbsp;
+[![Blackbox Adversarial Toolbox](https://github-readme-stats.vercel.app/api/pin/?username=wuhanstudio&repo=blackbox-adversarial-toolbox&show_owner=false)](https://github.com/wuhanstudio/blackbox-adversarial-toolbox)
+
 ### Latest
 
 - **My latest research in the U.K.** https://wuhanstudio.uk/
@@ -50,17 +61,6 @@ Ph.D. Student at the University of Exeter in the U.K. for **<a href="https://wuh
 [github]: https://github.com/wuhanstudio
 
 <br /> -->
-
-### Research
-
-<!-- [![Adversarial Driving](https://github-readme-stats.vercel.app/api/pin/?username=wuhanstudio&repo=adversarial-driving&show_owner=false)](https://github.com/wuhanstudio/adversarial-driving)&nbsp;&nbsp; -->
-<!-- [![Adversarial ROS Driving](https://github-readme-stats.vercel.app/api/pin/?username=wuhanstudio&repo=adversarial-ros-driving&show_owner=false)](https://github.com/wuhanstudio/adversarial-ros-driving)&nbsp;&nbsp; -->
-
-<!-- [![Adversarial Detection](https://github-readme-stats.vercel.app/api/pin/?username=wuhanstudio&repo=adversarial-detection&show_owner=false)](https://github.com/wuhanstudio/adversarial-detection)&nbsp;&nbsp; -->
-<!-- [![Adversarial ROS Detection](https://github-readme-stats.vercel.app/api/pin/?username=wuhanstudio&repo=adversarial-ros-detection&show_owner=false)](https://github.com/wuhanstudio/adversarial-ros-detection) -->
-
-[![Whitebox Adversarial Toolbox](https://github-readme-stats.vercel.app/api/pin/?username=wuhanstudio&repo=whitebox-adversarial-toolbox&show_owner=false)](https://github.com/wuhanstudio/whitebox-adversarial-toolbox)&nbsp;&nbsp;
-[![Blackbox Adversarial Toolbox](https://github-readme-stats.vercel.app/api/pin/?username=wuhanstudio&repo=blackbox-adversarial-toolbox&show_owner=false)](https://github.com/wuhanstudio/blackbox-adversarial-toolbox)
 
 ### Projects
 
