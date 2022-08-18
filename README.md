@@ -20,6 +20,7 @@ Ph.D. Student at the University of Exeter in the U.K. for **<a href="https://wuh
 ### Latest
 
 - **My latest research in the U.K.** https://wuhanstudio.uk/
+- [2022-07] New Supervisors: Prof. Johan Wahlström and Prof. Sareh Rowlands.
 - [2022-04] PGR Conference Talk: **Man-in-the-Middle Attack against Object Detection**. [Talk slides](https://minm.wuhanstudio.uk/)
 - [2021-12] RT-Thread Community **Outstanding Contribution** Award.
 - [2021-11] Invited Talk: **Embedded System Programming**, Manipal University Jaipur. [Event Poster](https://wuhanstudio.cc/resources/img/manipal.png)
