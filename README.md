@@ -20,6 +20,8 @@ Ph.D. Student at the University of Exeter in the U.K. for **<a href="https://wuh
 ### Latest
 
 - **My latest research in the U.K.** https://wuhanstudio.uk/
+- [2022-08] Paper: Man-in-the-Middle Attack against Object Detection Systems. [PDF](https://arxiv.org/abs/2208.07174)
+- [2022-08] Paper: Adversarial Driving: Attacking End-to-End Autonomous Driving. [PDF](https://arxiv.org/abs/2103.09151) 
 - [2022-07] New Supervisors: Prof. Johan Wahlström and Prof. Sareh Rowlands.
 - [2022-04] PGR Conference Talk: **Man-in-the-Middle Attack against Object Detection**. [Talk slides](https://minm.wuhanstudio.uk/)
 - [2021-12] RT-Thread Community **Outstanding Contribution** Award.
