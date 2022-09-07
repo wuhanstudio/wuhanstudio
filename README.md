@@ -21,7 +21,7 @@ Ph.D. Student at the University of Exeter in the U.K. for **<a href="https://wuh
 
 - **My latest research in the U.K.** [https://wuhanstudio.uk/](https://wuhanstudio.uk/)
 - [2022-09] Paper: **Distributed Black-box Attack** against Image Classification Cloud Services.
-- [2022-09] Paper: **Adversarial Detection**: Attacking Object Detection in Real Time. [PDF](https://arxiv.org/abs/2103.09151) 
+- [2022-09] Paper: **Adversarial Detection**: Attacking Object Detection in Real Time. [PDF](https://arxiv.org/abs/2209.01962) 
 - [2022-08] Paper: **Man-in-the-Middle Attack** against Object Detection Systems. [PDF](https://arxiv.org/abs/2208.07174)
 - [2022-08] Paper: **Adversarial Driving**: Attacking End-to-End Autonomous Driving. [PDF](https://arxiv.org/abs/2103.09151) 
 - [2022-07] New Supervisors: Prof. Johan Wahlström and Prof. Sareh Rowlands.
