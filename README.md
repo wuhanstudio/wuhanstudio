@@ -8,10 +8,10 @@ Ph.D. Student at the University of Exeter in the U.K. for **<a href="https://wuh
 
 <div>
 <a href="https://wuhanstudio.cc">
-  <img align="center" width=55% src="https://github-readme-stats.vercel.app/api?username=wuhanstudio&include_all_commits=true&show_icons=true&hide=issues&count_private=true" />
+  <img align="center" width=55% src="https://github-readme-stats.wuhanstudio.vercel.app/api?username=wuhanstudio&include_all_commits=true&show_icons=true&hide=issues&count_private=true" />
 </a>
 <a href="https://wuhanstudio.uk">
-  <img align="center" width=40% src="https://github-readme-stats.vercel.app/api/top-langs/?username=wuhanstudio&layout=compact&langs_count=6" />
+  <img align="center" width=40% src="https://github-readme-stats.wuhanstudio.vercel.app/api/top-langs/?username=wuhanstudio&layout=compact&langs_count=6" />
 </a>
 </div>
 
