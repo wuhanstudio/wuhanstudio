@@ -28,7 +28,7 @@ Ph.D. Student at the University of Exeter in the U.K. for **<a href="https://wuh
 <!-- -->
 - [2022-07] New Supervisors: Prof. Johan Wahlström and Prof. Sareh Rowlands.
 <!-- [2022-04] PGR Conference Talk: Man-in-the-Middle Attack against Object Detection. [Talk slides](https://minm.wuhanstudio.uk/) -->
-- [2021-12] RT-Thread Community **Outstanding Contribution Award**.
+<!-- [2021-12] RT-Thread Community **Outstanding Contribution Award**. -->
 - [2021-11] Invited Talk: **Embedded System Programming**, Manipal University Jaipur. [Event Poster](https://wuhanstudio.cc/resources/img/manipal.png)
 - [2021-09] Invited Talk: **Adversarial Attacks against Deep Learning**, AI/ML in Industry and Finance. [Talk slides](https://orca.wuhanstudio.uk/)
 - [2021-09] Invited Talk: **Robot Operating System (ROS) on RT-Thread**, RT-Thread Global Tech Conference. [Talk slides](https://ros.wuhanstudio.uk/)
@@ -39,7 +39,7 @@ Ph.D. Student at the University of Exeter in the U.K. for **<a href="https://wuh
 - **M.Eng.** in Engineering Thermal Physics, [Huazhong University of Science and Technology](http://tpl.energy.hust.edu.cn/), China [2016-2019]
 - **B.Eng.** in Energy and Power Engineering, [Huazhong University of Science and Technology](https://www.hust.edu.cn/), China [2012-2016]
 
-#### Internship
+### Internship
 - [2020] AI Accelerator FPGA Intern in <a href="https://www.xilinx.com/">Xilinx</a>.
 - [2020] Deep Learning Research Intern in <a href="https://www.liulishuo.com/en">LAIX Inc</a>.
 - [2019] Embedded Software Engineering Intern in <a href="https://www.rt-thread.org/">RT-Thread</a>.
