@@ -36,7 +36,7 @@ Ph.D. Student at the University of Exeter in the U.K. for **<a href="https://wuh
 
 ### Education
 
-- [2020] Currently a **Ph.D. Student** in Computer Science, [University of Exeter](https://www.exeter.ac.uk/), the U.K.
+- [2020-2024] Currently a **Ph.D. Student** in Computer Science, [University of Exeter](https://www.exeter.ac.uk/), the U.K.
 - [2016-2019] **M.Eng.** in Engineering Thermal Physics, [Huazhong University of Science and Technology](http://tpl.energy.hust.edu.cn/), China.
 - [2012-2016] **B.Eng.** in Energy and Power Engineering, [Huazhong University of Science and Technology](https://www.hust.edu.cn/), China.
 
