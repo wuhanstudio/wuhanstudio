@@ -21,7 +21,7 @@ Ph.D. Student at the University of Exeter in the U.K. for **<a href="https://wuh
 
 - **My latest research in the U.K.** [https://wuhanstudio.uk/](https://wuhanstudio.uk/)
 <!-- -->
-- [2023-01] Invited Talk: An introduction to RT-Thread, OpenEuler Meetup.
+- [2023-01] Invited Talk: An introduction to RT-Thread, OpenEuler Meetup. [Event Poster](https://wuhanstudio.cc/resources/img/openeuler.jpg)
 <!-- -->
 - [2022-12] Visiting Student at [SUSTech](https://www.sustech.edu.cn/en/).
 <!--  -->
