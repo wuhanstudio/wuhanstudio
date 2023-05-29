@@ -21,6 +21,8 @@ Ph.D. Student at the University of Exeter in the U.K. for **<a href="https://wuh
 
 - **My latest research in the U.K.** [https://wuhanstudio.uk/](https://wuhanstudio.uk/)
 <!-- -->
+- [2023-06] PGR Conference: The third-year report. [Talk slides](https://research.wuhanstudio.uk/)
+<!-- -->
 - [2023-06] Invited Talk: **Deep Learning Security for Robots**, RT-Thread Global Tech Conference. [Talk slides](https://rtt.wuhanstudio.uk/)
 - [2023-01] Invited Talk: **An introduction to RT-Thread**, OpenEuler Meetup. [Event Poster](https://wuhanstudio.cc/resources/img/openeuler.jpg)
 - [2022-10] Invited Talk: **Deep Learning Security for IoT**, Manipal University Jaipur. [Event Poster](https://wuhanstudio.cc/resources/img/iot.jpg)
