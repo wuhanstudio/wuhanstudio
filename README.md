@@ -42,7 +42,7 @@ Ph.D. Student at the University of Exeter in the U.K. for **<a href="https://wuh
 <!-- -->
 - [2021-04] Paper: Interpretable Machine Learning for COVID-19: An Empirical Study on Severity Prediction Task. [PDF](https://arxiv.org/abs/2010.02006)
 <!-- -->
-- [2020-10] **The Beginning of my PhD Journey**.
+- [2020-10] **The Beginning of my Ph.D. Journey**.
   
 ### Education
 
