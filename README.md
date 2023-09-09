@@ -21,6 +21,8 @@ Ph.D. Student at the University of Exeter in the U.K. for **<a href="https://wuh
 
 - **My latest research in the U.K.** [https://wuhanstudio.uk/](https://wuhanstudio.uk/)
 <!-- -->
+- [2023-08] Awarded the Open Research Reward.
+<!-- -->
 - [2023-06] PGR Conference: The Third-Year Report. [Talk slides](https://research.wuhanstudio.uk/)
 - [2023-06] IEEE Intelligent Vehicle Symposium, Anchorage, Alaska, USA. [Oral](https://onedrive.live.com/View.aspx?resid=307AE78484113A13!304&wdSlideId=256&wdModeSwitchTime=1685351149764&authkey=!AHZYQ7PAYuW3BQU) | [Poster](https://wuhanstudio.uk/file/IV23-Poster-Adversarial-Detection.pdf)
 <!-- -->
