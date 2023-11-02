@@ -22,13 +22,13 @@ Ph.D. Student at the University of Exeter in the U.K. for **<a href="https://wuh
 - **My latest research in the U.K.** [https://wuhanstudio.uk/](https://wuhanstudio.uk/)
 <!-- -->
 - [2023-11] Workshop: Introduction to HPC & ISCA. [Event Link](https://uniexeterrse.github.io/intro-to-isca/)
-- [2023-09] Data Study Groups: The Alan Turing Institute. [Event Link](https://www.turing.ac.uk/collaborate-turing/data-study-groups).
+- [2023-09] Data Study Groups: The Alan Turing Institute. [Event Link](https://www.turing.ac.uk/collaborate-turing/data-study-groups)
 - [2023-08] Awarded the Open Research Reward.
 <!-- -->
-- [2023-06] PGR Conference: The Third-Year Report. [Talk slides](https://research.wuhanstudio.uk/)
+- [2023-06] PGR Conference: The Third-Year Report. [Talk Slides](https://research.wuhanstudio.uk/)
 - [2023-06] IEEE Intelligent Vehicle Symposium, Anchorage, Alaska, USA. [Oral](https://onedrive.live.com/View.aspx?resid=307AE78484113A13!304&wdSlideId=256&wdModeSwitchTime=1685351149764&authkey=!AHZYQ7PAYuW3BQU) | [Poster](https://wuhanstudio.uk/file/IV23-Poster-Adversarial-Detection.pdf)
 <!-- -->
-- [2023-06] Invited Talk: **Deep Learning Security for Robots**, RT-Thread Global Tech Conference. [Talk slides](https://rtt.wuhanstudio.uk/)
+- [2023-06] Invited Talk: **Deep Learning Security for Robots**, RT-Thread Global Tech Conference. [Talk Slides](https://rtt.wuhanstudio.uk/)
 - [2023-01] Invited Talk: **An introduction to RT-Thread**, OpenEuler Meetup. [Event Poster](https://wuhanstudio.cc/resources/img/openeuler.jpg)
 - [2022-10] Invited Talk: **Deep Learning Security for IoT**, Manipal University Jaipur. [Event Poster](https://wuhanstudio.cc/resources/img/iot.jpg)
 <!-- -->
@@ -38,11 +38,11 @@ Ph.D. Student at the University of Exeter in the U.K. for **<a href="https://wuh
 - [2022-08] Paper: **Adversarial Driving**: Attacking End-to-End Autonomous Driving. [PDF](https://arxiv.org/abs/2103.09151) 
 <!-- -->
 - [2022-07] New Supervisors: Prof. Johan Wahlström and Prof. Sareh Rowlands.
-<!-- [2022-04] PGR Conference Talk: Man-in-the-Middle Attack against Object Detection. [Talk slides](https://minm.wuhanstudio.uk/) -->
+<!-- [2022-04] PGR Conference Talk: Man-in-the-Middle Attack against Object Detection. [Talk Slides](https://minm.wuhanstudio.uk/) -->
 <!-- [2021-12] RT-Thread Community **Outstanding Contribution Award**. -->
 - [2021-11] Invited Talk: **Embedded System Programming**, Manipal University Jaipur. [Event Poster](https://wuhanstudio.cc/resources/img/manipal.png)
-- [2021-09] Invited Talk: **Adversarial Attacks against Deep Learning**, AI/ML in Industry and Finance. [Talk slides](https://orca.wuhanstudio.uk/)
-- [2021-09] Invited Talk: **Robot Operating System (ROS) on RT-Thread**, RT-Thread Global Tech Conference. [Talk slides](https://ros.wuhanstudio.uk/)
+- [2021-09] Invited Talk: **Adversarial Attacks against Deep Learning**, AI/ML in Industry and Finance. [Talk Slides](https://orca.wuhanstudio.uk/)
+- [2021-09] Invited Talk: **Robot Operating System (ROS) on RT-Thread**, RT-Thread Global Tech Conference. [Talk Slides](https://ros.wuhanstudio.uk/)
 <!-- -->
 - [2021-04] Paper: Interpretable Machine Learning for COVID-19: An Empirical Study on Severity Prediction Task. [PDF](https://arxiv.org/abs/2010.02006)
 <!-- -->
