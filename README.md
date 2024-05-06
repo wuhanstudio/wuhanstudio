@@ -35,9 +35,9 @@ Ph.D. Student at the University of Exeter in the U.K. for **<a href="https://wuh
 - [2022-10] Invited Talk: **Deep Learning Security for IoT**, Manipal University Jaipur. [Event Poster](https://wuhanstudio.cc/resources/img/iot.jpg)
 <!-- -->
 - [2022-10] Paper: **Distributed Black-box Attack** against Image Classification Cloud Services. [PDF](https://arxiv.org/abs/2210.16371)
-- [2022-09] Paper: **Adversarial Detection**: Attacking Object Detection in Real Time. [PDF](https://arxiv.org/abs/2209.01962) 
+- [2022-09] Paper: **Adversarial Detection**: Attacking Object Detection in Real Time. [PDF](https://ieeexplore.ieee.org/document/10186608) 
 - [2022-08] Paper: **Man-in-the-Middle Attack** against Object Detection Systems. [PDF](https://arxiv.org/abs/2208.07174)
-- [2022-08] Paper: **Adversarial Driving**: Attacking End-to-End Autonomous Driving. [PDF](https://arxiv.org/abs/2103.09151) 
+- [2022-08] Paper: **Adversarial Driving**: Attacking End-to-End Autonomous Driving. [PDF](https://ieeexplore.ieee.org/document/10186386) 
 <!-- -->
 - [2022-07] New Supervisors: Prof. Johan Wahlström and Prof. Sareh Rowlands.
 <!-- [2022-04] PGR Conference Talk: Man-in-the-Middle Attack against Object Detection. [Talk Slides](https://minm.wuhanstudio.uk/) -->
@@ -46,7 +46,7 @@ Ph.D. Student at the University of Exeter in the U.K. for **<a href="https://wuh
 - [2021-09] Invited Talk: **Adversarial Attacks against Deep Learning**, AI/ML in Industry and Finance. [Talk Slides](https://orca.wuhanstudio.uk/)
 - [2021-09] Invited Talk: **Robot Operating System (ROS) on RT-Thread**, RT-Thread Global Tech Conference. [Talk Slides](https://ros.wuhanstudio.uk/)
 <!-- -->
-- [2021-04] Paper: Interpretable Machine Learning for COVID-19: An Empirical Study on Severity Prediction Task. [PDF](https://arxiv.org/abs/2010.02006)
+- [2021-04] Paper: Interpretable Machine Learning for COVID-19: An Empirical Study on Severity Prediction Task. [PDF](https://ieeexplore.ieee.org/document/9465748)
 <!-- -->
 - [2020-10] **The Beginning of my Ph.D. Journey**.
   
