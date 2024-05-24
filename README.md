@@ -21,6 +21,7 @@ Ph.D. Student at the University of Exeter in the U.K. for **<a href="https://wuh
 
 - **My latest research in the U.K.** [https://wuhanstudio.uk/](https://wuhanstudio.uk/)
 <!-- -->
+- [2024-05] Ph.D. thesis submitted.
 - [2024-03] Start writing my Ph.D. thesis.
 <!-- -->
 - [2023-11] Workshop: Introduction to HPC & ISCA. [Event Link](https://uniexeterrse.github.io/intro-to-isca/)
