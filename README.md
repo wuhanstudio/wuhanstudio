@@ -21,7 +21,7 @@ Ph.D. Student at the University of Exeter in the U.K. for **<a href="https://wuh
 
 - **My latest research in the U.K.** [https://wuhanstudio.uk/](https://wuhanstudio.uk/)
 <!-- -->
-- [2024-06] Workshop: Introduction to MATLAB
+- [2024-06] Workshop: Introduction to MATLAB.
 - [2024-06] Workshop: Parallel Computing. [Event Link](https://github.com/coding-for-reproducible-research/parallel-computing)
 <!-- -->
 - [2024-05] Ph.D. thesis submitted.
