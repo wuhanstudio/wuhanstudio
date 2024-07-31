@@ -21,6 +21,8 @@ Ph.D. Student at the University of Exeter in the U.K. for **<a href="https://wuh
 
 - **My latest research in the U.K.** [https://wuhanstudio.uk/](https://wuhanstudio.uk/)
 <!-- -->
+- [2024-08] Joined the [Southampton Astronomy Group](https://www.astro.soton.ac.uk/), University of Southampton.
+<!-- -->
 - [2024-07] **Defended my Ph.D. thesis**.
 <!-- -->
 - [2024-06] Workshop: Introduction to MATLAB. [Event Link](https://jake31may.github.io/intro-to-matlab/)
