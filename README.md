@@ -21,7 +21,7 @@ Ph.D. Student at the University of Exeter in the U.K. for **<a href="https://wuh
 
 - **My latest research in the U.K.** [https://wuhanstudio.uk/](https://wuhanstudio.uk/)
 <!-- -->
-- [2024-08] Lightning Talk: WASM Embedded, KubeCon Hong Kong.
+- [2024-08] Lightning Talk: WASM Embedded, KubeCon Hong Kong. [Event Link](https://sched.co/1eYXQ).
 - [2024-08] Joined the [Astronomy Group](https://www.astro.soton.ac.uk/), University of Southampton.
 <!-- -->
 - [2024-07] **Defended my Ph.D. thesis**.
