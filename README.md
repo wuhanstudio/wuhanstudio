@@ -21,9 +21,11 @@ Ph.D. Student at the University of Exeter in the U.K. for **<a href="https://wuh
 
 - **My latest research in the U.K.** [https://wuhanstudio.uk/](https://wuhanstudio.uk/)
 <!-- -->
+- [2024-11] Postdoc in the School of Physics and Astronomy, University of Southampton.
+<!-- -->
 - **[2024-10] The End of my Ph.D. Journey.**
 <!-- -->
-- [2024-10] Ph.D. degree in Computer Science awarded.
+- [2024-10] Ph.D. degree in **Computer Science** awarded.
 - [2024-09] Ph.D. thesis minor corrections submitted.
 <!-- -->
 - [2024-08] Lightning Talk: WASM Embedded, KubeCon Hong Kong. [Event Link](https://sched.co/1eYXQ).
