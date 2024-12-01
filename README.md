@@ -2,7 +2,7 @@
 
 # Is Deep Learning secure for Robots?
 
-Ph.D. Student at the University of Exeter in the U.K. for **<a href="https://wuhanstudio.uk">Deep Learning Security</a>** in Autonomous Systems. Prior research experience at RT-Thread, LAIX, Xilinx.
+Postdoc in Physics and Astronomy at University of Southampton in the U.K. Prior research experience at RT-Thread, LAIX, Xilinx.
 
 ![](https://komarev.com/ghpvc/?username=wuhanstudio&label=Profile+Views)
 
