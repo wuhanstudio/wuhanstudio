@@ -31,7 +31,7 @@ Postdoc in Physics and Astronomy at University of Southampton in the U.K. Prior 
 <!-- -->
 - [2024-10] **The End of my Ph.D. Journey**.
 <!-- -->
-- [2024-10] Ph.D. degree in **Computer Science** awarded.
+- [2024-10] Ph.D. degree in Computer Science awarded.
 - [2024-09] Ph.D. thesis minor corrections submitted.
 <!-- -->
 - [2024-08] Lightning Talk: WASM Embedded, KubeCon Hong Kong. [Event Link](https://sched.co/1eYXQ).
