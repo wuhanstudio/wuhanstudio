@@ -17,13 +17,19 @@ Ph.D. Student at the University of Exeter in the U.K. for **<a href="https://wuh
 
 <!-- -------- -->
 
+### Education
+
+- [2020-2024] Ph.D. in **Computer Science**, [University of Exeter](https://www.exeter.ac.uk/), the U.K.
+- [2016-2019] M.Sc. in **Thermal Physics**, [Huazhong University of Science and Technology](http://tpl.energy.hust.edu.cn/), China.
+- [2012-2016] B.Eng. in **Energy and Power Engineering**, [Huazhong University of Science and Technology](https://www.hust.edu.cn/), China.
+
 ### Latest
 
 - **My latest research in the U.K.** [https://wuhanstudio.uk/](https://wuhanstudio.uk/)
 <!-- -->
-- [2024-11] Postdoc in the School of Physics and Astronomy, University of Southampton.
+- [2024-11] **Postdoc** in Physics and Astronomy, University of Southampton.
 <!-- -->
-- **[2024-10] The End of my Ph.D. Journey.**
+- [2024-10] **The End of my Ph.D. Journey**.
 <!-- -->
 - [2024-10] Ph.D. degree in **Computer Science** awarded.
 - [2024-09] Ph.D. thesis minor corrections submitted.
@@ -38,6 +44,11 @@ Ph.D. Student at the University of Exeter in the U.K. for **<a href="https://wuh
 <!-- -->
 - [2024-05] **Ph.D. thesis submitted**.
 - [2024-03] Start writing my Ph.D. thesis.
+
+<!-- -->
+<details>
+  <summary> + [2023-2020] <strong> Ph.D. Journey </strong> </summary>
+
 <!-- -->
 - [2023-11] Workshop: Introduction to HPC & ISCA. [Event Link](https://uniexeterrse.github.io/intro-to-isca/)
 - [2023-09] Data Study Groups: The Alan Turing Institute. [Event Link](https://www.turing.ac.uk/collaborate-turing/data-study-groups)
@@ -64,13 +75,9 @@ Ph.D. Student at the University of Exeter in the U.K. for **<a href="https://wuh
 <!-- -->
 - [2021-04] Paper: Interpretable Machine Learning for COVID-19: An Empirical Study on Severity Prediction Task. [PDF](https://ieeexplore.ieee.org/document/9465748)
 <!-- -->
-- [2020-10] **The Beginning of my Ph.D. Journey**.
-  
-### Education
+</details>
 
-- [2020-2024] Currently a **Ph.D. Student** in Computer Science, [University of Exeter](https://www.exeter.ac.uk/), the U.K.
-- [2016-2019] **M.Eng.** in Engineering Thermal Physics, [Huazhong University of Science and Technology](http://tpl.energy.hust.edu.cn/), China.
-- [2012-2016] **B.Eng.** in Energy and Power Engineering, [Huazhong University of Science and Technology](https://www.hust.edu.cn/), China.
+- [2020-10] **The Beginning of my Ph.D. Journey**.
 
 ### Internship
 - [2020] AI Accelerator FPGA Intern in <a href="https://www.xilinx.com/">Xilinx</a>.
