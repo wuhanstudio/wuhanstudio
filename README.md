@@ -27,7 +27,7 @@ Postdoc in Physics and Astronomy at University of Southampton in the U.K. Prior 
 
 - **My latest research in the U.K.** [https://wuhanstudio.uk/](https://wuhanstudio.uk/)
 <!-- -->
-- [2024-12] Ph.D. graduation ceremony, University of Exeter.  
+- [2024-12] Ph.D. Graduation Ceremony, University of Exeter.  
 - [2024-11] Postdoc in Physics and Astronomy, University of Southampton.
 <!-- -->
 - [2024-10] **The End of my Ph.D. Journey**.
