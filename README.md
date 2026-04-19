@@ -125,5 +125,5 @@ Postdoc in Physics and Astronomy at University of Southampton in the U.K. Prior 
 [![16-bit  CPU](https://github-readme-stats.wuhanstudio.vercel.app/api/pin/?username=wuhanstudio&repo=nand2tetris-iverilog&show_owner=false)](https://github.com/wuhanstudio/nand2tetris-iverilog)&nbsp;&nbsp;
 [![32-bit SoC](https://github-readme-stats.wuhanstudio.vercel.app/api/pin/?username=wuhanstudio&repo=picorv32_EG4S20&show_owner=false)](https://github.com/wuhanstudio/picorv32_tang)
 
-[![16-bit  CPU](https://github-readme-stats.wuhanstudio.vercel.app/api/pin/?username=wuhanstudio&repo=litex-soc-icesugar-rust&show_owner=false)](https://github.com/wuhanstudio/litex-soc-icesugar-rust)&nbsp;&nbsp;
+[![16-bit  CPU](https://github-readme-stats.wuhanstudio.vercel.app/api/pin/?username=wuhanstudio&repo=litex-vexriscv-rust&show_owner=false)](https://github.com/wuhanstudio/litex-vexriscv-rust)&nbsp;&nbsp;
 [![32-bit SoC](https://github-readme-stats.wuhanstudio.vercel.app/api/pin/?username=wuhanstudio&repo=litex-picorv32-rtthread&show_owner=false)](https://github.com/wuhanstudio/litex-picorv32-rtthread)
